@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhades_phone=self.webpackChunkhades_phone||[]).push([[8404],{28404:(e,l,a)=>{a.r(l),a.d(l,{Categories:()=>h});var o=a(81446),r=a(44433),s=a(14210),c=a(94825),h=[{label:"Services",color:s.A[500]},{label:"Want-To-Buy",color:o.A[500]},{label:"Want-To-Sell",color:r.A[500]},{label:"Help Wanted",color:c.A[500]}]}}]);

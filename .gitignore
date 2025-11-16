@@ -1,0 +1,15 @@
+# Ignore Node modules
+node_modules/
+
+# Lockfiles
+package-lock.json
+pnpm-lock.yaml
+# Logs
+npm-debug.log
+yarn-error.log
+# Ignore IDE files
+.vscode/
+.DS_Store
+# Keep production builds
+!dist/
+!dist/**

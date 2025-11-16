@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhades_phone=self.webpackChunkhades_phone||[]).push([[5040],{65040:(e,n,s)=>{s.r(n),s.d(n,{default:()=>t});var u=s(60897),a=s(51734);const t=function(e){return(0,u.useEffect)(function(){a.A.send("OpenCamera")},[]),null}}}]);

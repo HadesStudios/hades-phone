@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhades_phone=self.webpackChunkhades_phone||[]).push([[8356],{68356:(e,a,n)=>{n.r(a),n.d(a,{default:()=>s});var r=n(60897),t=(n(29412),(0,n(90418).A)(function(e){return{wrapper:{height:"100%",background:e.palette.secondary.main}}}));const s=function(e){var a=t();return r.createElement("div",{className:a.wrapper},"Coming ... Someday")}}}]);
